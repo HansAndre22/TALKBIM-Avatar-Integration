@@ -1,0 +1,39 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.ap_
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Local properties
+local.properties
+
+# Cache
+*.jks
+*.keystore
+out/
+
+# Dependencies
+.classpath
+.project
+.cproject
+.c9/
+.pydevproject
+.sproject
+.settings/
+*.sublime-workspace
+
+# IDE
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
